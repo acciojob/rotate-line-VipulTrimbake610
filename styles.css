@@ -7,7 +7,7 @@ body{
 }
 #line{
 	position:absolute;
-	widthL:200px;
+	width:200px;
 	height:2px;
 	background-color:rgb(0,0,0);
 }
